@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1>Digite la siguiente info: </h1>
-    <form action="03_metodo_get.php" method="get"></form>
+    <form action="03_metodo_get.php" method="get">
     Nombre:
     <input type="text" name="Nombre"/>
     <br>
